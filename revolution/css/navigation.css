@@ -10,7 +10,7 @@ website:    http://www.themepunch.com
 -----------------------------------------------------------------------------*/
 .ares.tparrows {
   cursor:pointer;
-  background:#fff;
+  background:rgb(0, 0, 0);
   min-width:60px;
     min-height:60px;
   position:absolute;
@@ -23,7 +23,7 @@ website:    http://www.themepunch.com
 .ares.tparrows:before {
   font-family: "revicons";
   font-size:25px;
-  color:#aaa;
+  color:rgb(255, 255, 255);
   display:block;
   line-height: 60px;
   text-align: center;
